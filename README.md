@@ -1,4 +1,4 @@
-# Lung Classification using ConvNet and K-Fold Cross-Validation
+# Lung Sound Classification using Convolutional Neural Network
 
 **Dataset : International Conference on Biomedical and Health Informatics 2017 (ICBHI 2017)**
 
