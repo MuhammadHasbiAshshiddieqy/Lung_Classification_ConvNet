@@ -1,6 +1,6 @@
 # Lung Classification using ConvNet and K-Fold Cross-Validation
 
-# Dataset : International Conference on Biomedical and Health Informatics 2017 (ICBHI 2017)
+**Dataset : International Conference on Biomedical and Health Informatics 2017 (ICBHI 2017)**
 
 Klasifikasi suara paru dilakukan dengan mempersiapkan data terlebih dahulu. Data berupa file audio (rekaman suara paru), file teks (berisi pembagian siklus pernafasan dan label dari setiap siklus pernafasan), dan file yang berisi asal pengambilan suara paru (contoh : trakea). Langkah awal yang dilakukan adalah dengan memisahkan suara paru menjadi persiklus pernafasan berdasarkan file teks yang ada. Setelah melakukan pemisahan audio menjadi persiklus pernafasan, maka dilakukan proses encode label. Proses encode label digunakan karena label masih terbagi menjadi dua kolom, yaitu crackle dan wheeze. Label diencode menjadi :
 
